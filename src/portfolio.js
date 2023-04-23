@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Darwin Besorio",
+  logo_name: "DeweiBarcelonio",
+  nickname: "Web Developer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A strong, adaptable, and dedicated professional who chose to change careers to become a web developer with the goal of improving people's lives through the creation of cutting-edge, interactive web designs and by bringing to the team my experiences, abilities, and knowledge from the Web Development Bootcamp.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
